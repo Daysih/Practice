@@ -1,2 +1,5 @@
 # Practice
+
+:)
+
 Testing a repository 
